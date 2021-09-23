@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">522902750156-bfmiuru9jlb1u4mcheob7tgvak9lh5o7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">522902750156</string>
+</resources>

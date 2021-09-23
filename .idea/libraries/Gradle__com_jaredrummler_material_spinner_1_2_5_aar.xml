@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:material-spinner:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc74ec5dfd42a5345e0a5a92333cc4e9/jetified-material-spinner-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc74ec5dfd42a5345e0a5a92333cc4e9/jetified-material-spinner-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc74ec5dfd42a5345e0a5a92333cc4e9/jetified-material-spinner-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05e9f53f716a34349595ed42aa8d24a4/jetified-material-spinner-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05e9f53f716a34349595ed42aa8d24a4/jetified-material-spinner-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05e9f53f716a34349595ed42aa8d24a4/jetified-material-spinner-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe0b34304d70ae42cd4dfb3c81e25200/jetified-material-spinner-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe0b34304d70ae42cd4dfb3c81e25200/jetified-material-spinner-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe0b34304d70ae42cd4dfb3c81e25200/jetified-material-spinner-1.2.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/material-spinner/1.2.5/4ea52c7df53cb5585d1afedd86f97eab556c8e5b/material-spinner-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/material-spinner/1.2.5/3971eccf2ac2af9666cbb85a64c3ebf4d61833e8/material-spinner-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+com/website/health/adapters/PatientsAdapter.java
+ com.website.health.adapters.PatientsAdapter
+ com.website.health.adapters.PatientsAdapter$1
+ com.website.health.adapters.PatientsAdapter$MyViewHolder
+com/website/health/patients/AddPatientActivity.java
+ com.website.health.patients.AddPatientActivity
+com/website/health/BuildConfig.java
+ com.website.health.BuildConfig
+com/website/health/models/PatientVitals.java
+ com.website.health.models.PatientVitals
+com/website/health/patients/ViewPatientDetailsActivity.java
+ com.website.health.patients.ViewPatientDetailsActivity
+com/website/health/helpers/PreferenceManager.java
+ com.website.health.helpers.PreferenceManager
+com/website/health/helpers/DataRouter.java
+ com.website.health.helpers.DataRouter
+ com.website.health.helpers.DataRouter$1
+ com.website.health.helpers.DataRouter$2
+com/website/health/patients/ViewPatientVitalsActivity.java
+ com.website.health.patients.ViewPatientVitalsActivity
+com/website/health/helpers/HelperFunctions.java
+ com.website.health.helpers.HelperFunctions
+com/website/health/adapters/PatientVitalsAdapter.java
+ com.website.health.adapters.PatientVitalsAdapter
+ com.website.health.adapters.PatientVitalsAdapter$MyViewHolder
+com/website/health/patients/ViewPatientsActivity.java
+ com.website.health.patients.ViewPatientsActivity
+ com.website.health.patients.ViewPatientsActivity$1
+com/website/health/models/Patient.java
+ com.website.health.models.Patient
